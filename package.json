@@ -1,0 +1,41 @@
+{ "name": "aligned-plaintext-columns-table-pmb",
+  "version": "0.0.1",
+  "description": "Tabulate plaintext arrays. Align their columns using spaces or a custom padding. No fancy stuff included.",
+  "keywords": [
+    "align",
+    "aligned",
+    "column",
+    "columns",
+    "plain text",
+    "plain",
+    "plaintext",
+    "simple",
+    "table",
+    "tables",
+    "text"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/aligned-plaintext-columns-table-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/aligned-plaintext-columns-table-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/aligned-plaintext-columns-table-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "plaintable.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
